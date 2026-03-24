@@ -132,7 +132,6 @@ nav a.active {
         grid-template-columns: 1fr auto;
         padding: 0 20px;
     }
-
     nav {
         display: none;
         position: fixed;
@@ -146,13 +145,11 @@ nav a.active {
         gap: 0;
         padding: 12px;
     }
-
     nav a {
         width: 100%;
         text-align: center;
         padding: 14px 24px;
     }
-
     .menu-toggle { display: flex; }
     .header-spacer { display: none; }
 }
@@ -176,4 +173,8 @@ main p {
     color: var(--muted);
     font-size: 1.1rem;
     max-width: 40ch;
+}
+
+@media (max-width: 640px) {
+    nav.open { display: flex; }
 }
