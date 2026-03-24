@@ -1,0 +1,17 @@
+.logo {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #ffffff;
+    text-decoration: none;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;          /* space between image and text */
+}
+
+.logo img {
+    width: 36px; /* adjust to your preferred size */
+    height: 36px;
+    object-fit: contain;
+}
