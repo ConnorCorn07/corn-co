@@ -1,6 +1,6 @@
 const SITE_CONFIG = {
     logoSrc:
-        "https://cdn.discordapp.com/attachments/1078854999116881980/1093166322239668294/server-icon.png?ex=69bca3b9&is=69bb5239&hm=b163ac0328d352914ddd69d281b434876274e94a3352ab76d4b0a1641c7c6023&",
+        "https://i.imgur.com/3vtyVRk.png",
     logoAlt: "Logo",
     wordmark: "Corn Co.",
     nav: [
